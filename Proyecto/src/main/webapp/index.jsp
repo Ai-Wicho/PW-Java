@@ -1,10 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 4/10/2020, 02:00:58 PM
-    Author     : magoc
---%>
-<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <html>
 

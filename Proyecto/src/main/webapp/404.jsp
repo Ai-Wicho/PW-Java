@@ -1,10 +1,4 @@
-<%-- 
-    Document   : 404
-    Created on : Dec 2, 2020, 9:51:06 PM
-    Author     : Wicho
---%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>

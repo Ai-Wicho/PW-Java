@@ -1,10 +1,4 @@
-<%-- 
-    Document   : login_register
-    Created on : Nov 17, 2020, 7:02:05 PM
-    Author     : Wicho
---%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
